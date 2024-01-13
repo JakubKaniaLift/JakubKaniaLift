@@ -1,12 +1,12 @@
 ![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
-<h1 align="center"> Hi there! I'm Aga </h1>
-<h3 align="center">Bioinformatics grad delving into the dynamic fields of AI and Big Data</h3>
+<h1 align="center"> Hello! I'm Jacob </h1>
+<h3 align="center"> Bioinformatics with huge passion to Big Data and Statistics</h3>
 
 </br>
 </br>
 </br>
 
-<img src="https://i.pinimg.com/originals/19/68/b5/1968b5e25ad7e35e22c6d76fbac31faa.gif" alt="Coding" align="right" width="260">
+<img src="[https://i.pinimg.com/originals/19/68/b5/1968b5e25ad7e35e22c6d76fbac31faa.gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47liutareuq1nf41baphlni9mw8387gkiss0sed0ij&ep=v1_gifs_related&rid=giphy.gif&ct=g)" alt="Coding" align="right" width="260">
 
 
 ## 💬 About Me
