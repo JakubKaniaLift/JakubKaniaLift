@@ -1,11 +1,5 @@
 <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c90fcd8e-d3de-4886-807b-0baafcd01f99" alt="Coding" align="right" width="450">
 
-</br>
-</br>
-</br>
-
-
-
 ## 💬 About Me
 
 - **I'm not just about algorithms and data**; I thrive on creativity and the joy of creation. Whether it's crafting elegant code or exploring the arts, I'm all about the multidisciplinary dance of ideas
