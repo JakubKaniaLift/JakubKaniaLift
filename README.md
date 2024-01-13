@@ -12,9 +12,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thrives on the challenges of extracting meaningful insights  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; from complex datasets.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🏋🏼‍♂️ **Career Aspiration:** Aspires to specialize in human muscle development data analysis.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aiming to contribute to the field of  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; muscle composition enhancement.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🏋🏼‍♂️ **Career Aspiration:** Aspires to specialize in human muscle development  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; data analysis.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aiming to contribute to the field of muscle composition enhancement.  
 </br>
 
 ## Languages & Tools
