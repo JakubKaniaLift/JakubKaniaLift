@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c90fcd8e-d3de-4886-807b-0baafcd01f99" alt="Coding" align="left" width="275">
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; About me
@@ -18,7 +20,7 @@
 ## 🛠️ Languages & Tools
 <i class="devicon-python-plain-wordmark"></i>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-python-plain"></i>
 
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6f42c1)
