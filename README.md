@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; from complex datasets.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🏋🏼‍♂️ **Career Aspiration:** Aspires to specialize in human muscle development data analysis.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aiming to contribute to the field by uncovering optimal training methodologies for  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aiming to contribute to the field of  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; muscle composition enhancement.  
 </br>
 
