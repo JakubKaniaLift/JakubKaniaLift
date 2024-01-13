@@ -20,37 +20,7 @@
 ## 🛠️ Languages & Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-
-![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6f42c1)
-
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/GitLab_CI-informational?style=flat&logo=gitlab&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/GNU_Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6f42c1)
-
-![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Dask-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Unitest-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
-
-![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/DataSpell-informational?style=flat&logo=dataspell&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=6f42c1)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50" />
 
 </br>
 </br>
