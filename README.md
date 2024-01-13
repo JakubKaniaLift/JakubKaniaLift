@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
+![MasterHead](<iframe src="https://giphy.com/embed/xWMPYx55WNhX136T0V" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xWMPYx55WNhX136T0V">via GIPHY</a></p>)
 <h1 align="center"> Hello! I'm Jacob </h1>
 <h3 align="center"> Bioinformatics with huge passion to Big Data and Statistics</h3>
 
@@ -6,7 +6,6 @@
 </br>
 </br>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/evIQwMHLwfFAY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/89a-art-black-and-white-animation-evIQwMHLwfFAY">via GIPHY</a></p>
 
 ## 💬 About Me
 
