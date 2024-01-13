@@ -9,11 +9,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and Life Sciences.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  👨🏼‍💻 **Passion for Data Analysis:** Enthusiastic about exploring and analyzing data.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thrives on the challenges of extracting meaningful insights from complex datasets.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thrives on the challenges of extracting meaningful insights  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; from complex datasets.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🏋🏼‍♂️ **Career Aspiration:** Aspires to specialize in human muscle development data analysis.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aiming to contribute to the field by uncovering optimal training methodologies for  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; muscle composition enhancement.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aiming to contribute to the field by uncovering optimal training methodologies for  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; muscle composition enhancement.  
 </br>
 
 ## Languages & Tools
