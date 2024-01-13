@@ -1,5 +1,6 @@
-
-![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c95973b3-a840-448d-acd5-e5fa57642dc0)
+<div align="center">
+    <img src="[https://path/to/your/gif.gif](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/8a470d64-2893-4c97-a3fa-4b3a4128545f)" alt="Your GIF" width="300" height="300" style="float:right">
+</div>
 
 </br>
 </br>
