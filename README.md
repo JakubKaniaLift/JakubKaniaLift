@@ -1,4 +1,5 @@
-<img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/61ee6bbb-1af6-46c8-8705-ad91755a36f0" alt="Coding" align="center" width="1080" height="459,28">
+<img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/9323a720-c036-4db3-9a72-c89dc0219917" alt="Coding" align="center" width="1080" height="459,28">
+
 
 <h1 align="center"> Hello!  
 </br> I'm Jacob </h1>
