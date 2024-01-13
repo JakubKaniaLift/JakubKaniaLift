@@ -1,13 +1,5 @@
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; padding: 20px;">
-        <!-- Twój tekst tutaj -->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <!-- Ścieżka do obrazu -->
-        ![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/11f4f23c-0a09-4580-be68-f832a815729d)
-    </div>
-</div>
+
+![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c95973b3-a840-448d-acd5-e5fa57642dc0)
 
 </br>
 </br>
