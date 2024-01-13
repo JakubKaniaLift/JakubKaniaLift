@@ -1,7 +1,7 @@
 <h1 align="center"> Hello!  
 </br> I'm Jacob </h1>
 
-<img src="[https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c90fcd8e-d3de-4886-807b-0baafcd01f99](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanother-match-by-pixel-jeff--710091066230433432%2F&psig=AOvVaw13JRBwt2Xr8CmUPAKu9tWI&ust=1705257229300000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDXmq-A24MDFQAAAAAdAAAAABAI)" alt="Coding" align="center" width="270">
+<img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/61ee6bbb-1af6-46c8-8705-ad91755a36f0" alt="Coding" align="center" width="270">
 
 <h3 align="center">Bioinformatics passionate about both gym workouts, coding and    
   </br> always striving for a healthy balance between those two.</h3>  
