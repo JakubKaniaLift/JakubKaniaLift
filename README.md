@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" >
-  <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/723e0433-6b5d-49b1-a97f-1f37824060ca" width="50" height="50" >
+  <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/512136b8-2365-473a-bd55-b5b122481b02" width="50" height="50" >
 
 </p>
 
