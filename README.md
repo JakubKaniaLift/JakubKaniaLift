@@ -1,8 +1,8 @@
 <h1 align="center"> Hello!  
 </br> I'm Jacob </h1>
 
-<h3 align="center">Bioinformatics passionate about both gym workouts and coding,  
-  </br> always striving for a healthy balance between body and code.</h3>  
+<h3 align="center">Bioinformatics passionate about both gym workouts, coding and    
+  </br> always striving for a healthy balance between those two.</h3>  
 
 </br>
 
