@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="[https://bobbyhadz.com/images/blog/python-print-tab/thumbnail.webp](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/71f33778-34d1-4c1d-944b-d15555f57935)" width="33%" />
+  <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/71f33778-34d1-4c1d-944b-d15555f57935" width="33%" />
 </p>
 
 
