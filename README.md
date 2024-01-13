@@ -19,7 +19,7 @@
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,visualstudio,mysql,tensorflow,vim,latex,bash,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,visualstudio,mysql,tensorflow,vim,latex,bash,anaconda&perline=4)](https://skillicons.dev)
 
 </br>
 </br>
