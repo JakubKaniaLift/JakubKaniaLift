@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" >
   <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/512136b8-2365-473a-bd55-b5b122481b02" width="75" height="50" >
-  <img src="./icons/MySQL-Dark.svg" width="48">
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </p>
 
 </br>
