@@ -18,9 +18,8 @@
 </br>
 
 ## 🛠️ Languages & Tools
-<i class="devicon-python-plain-wordmark"></i>
 
-<i class="devicon-python-plain"></i>
+<i class="devicon-python-plain colored"></i>
 
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6f42c1)
