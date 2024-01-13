@@ -4,7 +4,7 @@ td, th {
 }
 </style>
 
-|
+ | 
 :-------------------------:|:-------------------------:
 a  |  ![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/f03a9885-7918-43a6-8fcf-7fad2878e1b5)
 
