@@ -1,8 +1,9 @@
-<img src="https://i.pinimg.com/originals/19/68/b5/1968b5e25ad7e35e22c6d76fbac31faa.gif" alt="Coding" align="right" width="260">
+<img src="[https://i.pinimg.com/originals/19/68/b5/1968b5e25ad7e35e22c6d76fbac31faa.gif](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c90fcd8e-d3de-4886-807b-0baafcd01f99)" alt="Coding" align="right" width="260">
 
 </br>
 </br>
 </br>
+
 
 
 ## 💬 About Me
