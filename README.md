@@ -4,8 +4,9 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; About me
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📖 **Academic Achievement:** Recently graduated with a Master's degree in Bioinformatics   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; from Wrocław University of Environmental and Life Sciences.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📖 **Academic Achievement:** Recently graduated with a Master's degree in      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bioinformatics from Wrocław University of Environmental  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and Life Sciences.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  👨🏼‍💻 **Passion for Data Analysis:** Enthusiastic about exploring and analyzing data.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thrives on the challenges of extracting meaningful insights from complex datasets.
