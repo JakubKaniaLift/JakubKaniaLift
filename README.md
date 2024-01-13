@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; muscle composition enhancement.  
 </br>
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,visualstudio,mysql,tensorflow,vim,latex,bash,anaconda&perline=4)](https://skillicons.dev)
 
