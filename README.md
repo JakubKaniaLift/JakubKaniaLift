@@ -1,43 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .container {
-            display: flex;
-            align-items: center;
-        }
-
-        .text {
-            flex: 1;
-            padding: 20px;
-        }
-
-        .image {
-            flex: 1;
-            text-align: center;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="text">
-            <!-- Twój tekst tutaj -->
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
-        </div>
-        <div class="image">
-            <!-- Ścieżka do obrazu -->
-            <img src="![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c07c62ce-a76a-4774-877e-aeacba4540f8)">
-        </div>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; padding: 20px;">
+        <!-- Twój tekst tutaj -->
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
     </div>
-</body>
-</html>
+    <div style="flex: 1; text-align: center;">
+        <!-- Ścieżka do obrazu -->
+        ![](![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/eb354e4e-00fe-4950-ae7c-514fc4712e91))
+    </div>
+</div>
 
 </br>
 </br>
