@@ -54,16 +54,6 @@
 </br>
 </br>
 
-## 📈 GitHub Statistics 
-
-<a href="https://github.com/agnieszkacieciwa/agnieszkacieciwa">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnieszkacieciwa&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnieszkacieciwa&theme=dark" alt="agnieszkacieciwa" /></p>
-
-</br>
-</br>
-
 ## 📫 Contact Me
 
 <p align="center">
