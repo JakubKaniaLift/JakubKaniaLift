@@ -4,7 +4,7 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; About me
 
-&nbsp;&nbsp;&nbsp;&nbsp; [] **Academic Achievement:** Recently graduated with a Master's degree in Bioinformatics   
+&nbsp;&nbsp;&nbsp;&nbsp;  **Academic Achievement:** Recently graduated with a Master's degree in Bioinformatics   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; from Wrocław University of Environmental and Life Sciences.
 
 &nbsp;&nbsp;&nbsp;&nbsp; [] **Passion for Data Analysis:** Enthusiastic about exploring and analyzing data.  
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" >
   <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/512136b8-2365-473a-bd55-b5b122481b02" width="75" height="50" >
-
+  <img src="./icons/MySQL-Dark.svg" width="48">
 </p>
 
 </br>
