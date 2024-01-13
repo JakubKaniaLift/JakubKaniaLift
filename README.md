@@ -13,7 +13,7 @@
 
 ## 🛠️ Languages & Tools
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6f42c1)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6f42c1)
