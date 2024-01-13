@@ -8,8 +8,6 @@
 
  - **Career Aspiration:** Aspires to specialize in human muscle development data analysis. Aiming to contribute to the field by uncovering optimal training methodologies for muscle composition enhancement.
 
- - **Dedication to Muscle Development:** Fueled by a profound interest in understanding human muscle development, with the ultimate goal of making a positive impact on fitness and training strategies.
-
 </br>
 </br>
 
