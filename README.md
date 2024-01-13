@@ -1,7 +1,7 @@
 <h1 align="center"> Hello!  
 </br> I'm Jacob </h1>
 
-<h3 align="center">Bioinformatics grad delving into the dynamic fields of AI and Big Data</h3>  
+<h3 align="center">Bioinformatics passionate about both gym workouts and coding, always striving for a healthy balance between body and code.</h3>  
 
 </br>
 
