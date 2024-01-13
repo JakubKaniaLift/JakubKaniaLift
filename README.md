@@ -7,7 +7,6 @@
 </br>
 
 <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c90fcd8e-d3de-4886-807b-0baafcd01f99" alt="Coding" align="left" width="270">
-
 ## &nbsp;&nbsp;&nbsp;&nbsp; About me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📖 **Academic Achievement:** Recently graduated with a Master's degree in      
@@ -19,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; from complex datasets.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🏋🏼‍♂️ **Career Aspiration:** Aspires to specialize in human muscle development  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; data analysis.  </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; data analysis.  
 
 </br>
 
