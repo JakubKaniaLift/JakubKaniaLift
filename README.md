@@ -1,14 +1,14 @@
 <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c90fcd8e-d3de-4886-807b-0baafcd01f99" alt="Coding" align="right" width="300">
 
-## 💬 About Me
+## About Me
 
-- **I'm not just about algorithms and data**; I thrive on creativity and the joy of creation. Whether it's crafting elegant code or exploring the arts, I'm all about the multidisciplinary dance of ideas
+ - **Academic Achievement:** Recently graduated with a Master's degree in Bioinformatics from Wrocław University of Environmental and Life Sciences.
 
-- **Passionate about creativity and the art of creation**. Whether it's crafting algorithms or a masterpiece, I find joy in the process
+ - **Passion for Data Analysis:** Enthusiastic about exploring and analyzing data. Thrives on the challenges of extracting meaningful insights from complex datasets.
 
-- The world of tech moves at warp speed, and I'm strapping in for the ride. **Always eager to enhance my skills, I embrace challenges as opportunities to level up**
+ - **Career Aspiration:** Aspires to specialize in human muscle development data analysis. Aiming to contribute to the field by uncovering optimal training methodologies for muscle composition enhancement.
 
-- I’m currently learning **neural network architectures and methods to train AI**
+ - **Dedication to Muscle Development:** Fueled by a profound interest in understanding human muscle development, with the ultimate goal of making a positive impact on fitness and training strategies.
 
 </br>
 </br>
