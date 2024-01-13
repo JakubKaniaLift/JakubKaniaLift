@@ -6,8 +6,7 @@
 </br>
 </br>
 
-<img src="(https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47liutareuq1nf41baphlni9mw8387gkiss0sed0ij&ep=v1_gifs_related&rid=giphy.gif&ct=g)" alt="Coding" align="right" width="260">
-
+<iframe src="https://giphy.com/embed/evIQwMHLwfFAY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/89a-art-black-and-white-animation-evIQwMHLwfFAY">via GIPHY</a></p>
 
 ## 💬 About Me
 
