@@ -5,7 +5,7 @@
     </div>
     <div style="flex: 1; text-align: center;">
         <!-- Ścieżka do obrazu -->
-        ![](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/429f065d-9c55-443f-8372-9f1c71276f4e)
+        ![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/11f4f23c-0a09-4580-be68-f832a815729d)
     </div>
 </div>
 
