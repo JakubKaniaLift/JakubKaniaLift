@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there! I'm Aga </h1>
-<h3 align="center">Bioinformatics grad delving into the dynamic fields of AI and Big Data</h3>
+<h3 align="center">Bioinformatics grad delving into the dynamic fields of AI and Big Data</h3>  
+
+</br>
 
 <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c90fcd8e-d3de-4886-807b-0baafcd01f99" alt="Coding" align="left" width="270">
 
