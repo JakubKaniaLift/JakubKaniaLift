@@ -5,9 +5,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp; - **Academic Achievement:** Recently graduated with a Master's degree in Bioinformatics from  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wrocław University of Environmental and Life Sciences.
 
-&nbsp;&nbsp;&nbsp;&nbsp; - **Passion for Data Analysis:** Enthusiastic about exploring and analyzing data. Thrives on the challenges of extracting meaningful insights from complex datasets.
+&nbsp;&nbsp;&nbsp;&nbsp; - **Passion for Data Analysis:** Enthusiastic about exploring and analyzing data.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thrives on the challenges of extracting meaningful insights from complex datasets.
 
-&nbsp;&nbsp;&nbsp;&nbsp; - **Career Aspiration:** Aspires to specialize in human muscle development data analysis. Aiming to contribute to the field by uncovering optimal training methodologies for muscle composition enhancement.
+&nbsp;&nbsp;&nbsp;&nbsp; - **Career Aspiration:** Aspires to specialize in human muscle development data analysis.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aiming to contribute to the field by uncovering optimal training methodologies for muscle composition enhancement.
 
 </br>
 </br>
