@@ -1,9 +1,43 @@
-![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/184927c6-c3df-4767-b6e5-2cd20ab82909)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| <h1 align="center"> Hello! I'm Jacob </h1>
-<h3 align="center"> Bioinformatics with huge passion to Big Data and Statistics</h3>  | ![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/184927c6-c3df-4767-b6e5-2cd20ab82909)  |
+        .text {
+            flex: 1;
+            padding: 20px;
+        }
+
+        .image {
+            flex: 1;
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="text">
+            <!-- Twój tekst tutaj -->
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+        </div>
+        <div class="image">
+            <!-- Ścieżka do obrazu -->
+            <img src="![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c07c62ce-a76a-4774-877e-aeacba4540f8)">
+        </div>
+    </div>
+</body>
+</html>
 
 </br>
 </br>
