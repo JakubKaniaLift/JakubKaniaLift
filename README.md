@@ -1,7 +1,7 @@
 <h1 align="center"> Hello!  
 </br> I'm Jacob </h1>
 
-<img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/61ee6bbb-1af6-46c8-8705-ad91755a36f0" alt="Coding" align="center" width="1000">
+<img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/61ee6bbb-1af6-46c8-8705-ad91755a36f0" alt="Coding" align="center" width="1080">
 
 <h3 align="center">Bioinformatics passionate about both gym workouts, coding and    
   </br> always striving for a healthy balance between those two.</h3>  
