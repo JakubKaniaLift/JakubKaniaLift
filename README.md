@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there! I'm Aga </h1>
+<h1 align="center"> Hello!  
+                    I'm Jacob</h1>
 <h3 align="center">Bioinformatics grad delving into the dynamic fields of AI and Big Data</h3>  
 
 </br>
