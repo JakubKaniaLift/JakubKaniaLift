@@ -1,4 +1,5 @@
-![MasterHead]([https://www.reddit.com/r/gifs/comments/9l1hg3/memories_oc/](https://giphy.com/embed/xWMPYx55WNhX136T0V))
+![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/184927c6-c3df-4767-b6e5-2cd20ab82909)
+
 
 <h1 align="center"> Hello! I'm Jacob </h1>
 <h3 align="center"> Bioinformatics with huge passion to Big Data and Statistics</h3>
