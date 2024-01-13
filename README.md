@@ -4,7 +4,7 @@
 <h1 align="center"> Hello!  
 </br> I'm Jacob </h1>
 
-<h3 align="center">Bioinformatics passionate about both gym workouts, coding and    
+<h3 align="center">Bioinformatics grad passionate about gym, coding and    
   </br> always striving for a healthy balance between those two.</h3>  
 
 </br>
