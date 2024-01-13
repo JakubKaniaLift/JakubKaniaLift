@@ -1,12 +1,8 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
- | 
-:-------------------------:|:-------------------------:
-a  |  ![giphy](https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/f03a9885-7918-43a6-8fcf-7fad2878e1b5)
+<p float="left">
+  <img src="https://bobbyhadz.com/images/blog/python-print-tab/thumbnail.webp" width="33%" />
+  <img src="https://bobbyhadz.com/images/blog/what-aws-cdk-bootstrap-do/thumbnail.webp" width="33%" />
+  <img src="https://bobbyhadz.com/images/blog/aws-cdk-subnet-tags/thumbnail.webp" width="33%" />
+</p>
 
 
 </br>
