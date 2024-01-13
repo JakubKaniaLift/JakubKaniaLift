@@ -1,12 +1,12 @@
-<img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c90fcd8e-d3de-4886-807b-0baafcd01f99" alt="Coding" align="left" width="275">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/c90fcd8e-d3de-4886-807b-0baafcd01f99" alt="Coding" align="left" width="275">
 
-## About Me
 
- - **Academic Achievement:** Recently graduated with a Master's degree in Bioinformatics from Wrocław University of Environmental and Life Sciences.
 
- - **Passion for Data Analysis:** Enthusiastic about exploring and analyzing data. Thrives on the challenges of extracting meaningful insights from complex datasets.
+&nbsp;&nbsp;&nbsp;&nbsp; - **Academic Achievement:** Recently graduated with a Master's degree in Bioinformatics from Wrocław University of Environmental and Life Sciences.
 
- - **Career Aspiration:** Aspires to specialize in human muscle development data analysis. Aiming to contribute to the field by uncovering optimal training methodologies for muscle composition enhancement.
+&nbsp;&nbsp;&nbsp;&nbsp; - **Passion for Data Analysis:** Enthusiastic about exploring and analyzing data. Thrives on the challenges of extracting meaningful insights from complex datasets.
+
+&nbsp;&nbsp;&nbsp;&nbsp; - **Career Aspiration:** Aspires to specialize in human muscle development data analysis. Aiming to contribute to the field by uncovering optimal training methodologies for muscle composition enhancement.
 
 </br>
 </br>
