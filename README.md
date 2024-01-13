@@ -16,10 +16,12 @@
 </br>
 
 ## Languages & Tools
-
+### Main 
 [![My Skills](https://skillicons.dev/icons?i=py,r,visualstudio,mysql,tensorflow,vim,latex,bash,anaconda)](https://skillicons.dev)
 
-</br>
+### Subclass
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,vim,bash,anaconda,latex)](https://skillicons.dev)
+
 </br>
 
 ## 📫 Contact Me
