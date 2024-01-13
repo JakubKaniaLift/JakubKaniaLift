@@ -1,8 +1,4 @@
-<p float="right">
-  dadaad 
-  <img src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/71f33778-34d1-4c1d-944b-d15555f57935" width="50%" />
-</p>
-
+(img align="right" alt="Coding" width="400" src="https://github.com/JakubKaniaLift/JakubKaniaLift/assets/138041287/71f33778-34d1-4c1d-944b-d15555f57935")
 
 </br>
 </br>
