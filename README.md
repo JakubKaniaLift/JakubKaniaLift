@@ -33,20 +33,6 @@
 ### Subclass
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,vim,bash,anaconda,latex)](https://skillicons.dev)
 
-</br>
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:agnieszka.cieciwa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20-%231DA1F2.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-   </a>
-   </a> 
-  <a href="https://www.linkedin.com/in/aga-ci%C4%99ciwa-2730401b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%237289DA.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-</p>
-
 
 
 
