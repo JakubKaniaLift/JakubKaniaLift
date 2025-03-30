@@ -4,20 +4,21 @@
 <img align="left" width="240" height="332.5" src="https://github.com/user-attachments/assets/f3323c03-0f0a-4f5e-aafd-c4cd34d1872b">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📖 **Academic Achievement:** Recently graduated with a Master's degree in Bioinformatics    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with specification Biostatistics from Wrocław University of Environmental  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and Life Sciences,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bioinformatics with specification Biostatistics from Wrocław University of    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Environmental and Life Sciences,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  👨🏼‍💻 **Passion for Data Analysis:** Enthusiastic about exploring and analyzing data.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thrives on the challenges of extracting meaningful insights  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; from complex datasets,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🏋🏼‍♂️ **Career Aspiration:** Aspires to specialize in data analysis, focusing on exploring various domains  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and extracting meaningful insights from diverse datasets to drive informed decision-making,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🏋🏼‍♂️ **Career Aspiration:** Aspires to specialize in data analysis, focusing on exploring    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; various domains and extracting meaningful insights from diverse datasets to  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; drive informed decision-making,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🚲 **Hobbies:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My hobbies are mainly fixed gear riding on the streets of Wroclaw and joining bike rides,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while keeping myself in shape by going to the gym, and in all of this, trying to learn new and  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; interesting things.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My hobbies are mainly fixed gear riding on the streets of Wroclaw and   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; joining bike rides, while keeping myself in shape by going to the gym, and  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in all of this, trying to learn new and interesting things.
 
 ## Languages & Tools
 
