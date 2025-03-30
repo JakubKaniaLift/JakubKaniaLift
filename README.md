@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; joining bike rides, while keeping myself in shape by going to the gym, and  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in all of this, trying to learn new and interesting things.
 
-<div>
+<br />
   
 ## Languages & Tools
 <div align="justify"> During all my years at university, I primarily used R and Python for deep data analysis in the different fields of biology. The workflows and techniques I developed during that time are still applicable to most datasets and fields, providing a solid foundation for analyzing and interpreting complex data across various domains. </div>
