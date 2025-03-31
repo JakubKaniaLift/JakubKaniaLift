@@ -4,8 +4,6 @@
 ## About me
 <img align="left" width="240" height="332" src="https://github.com/user-attachments/assets/791062ef-9cff-438a-a776-af2fe7feb936">
 
-<br />
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📖 **Academic Achievement:** Recently graduated with a Master's degree in   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bioinformatics with specification Biostatistics from Wrocław University of    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Environmental and Life Sciences,
